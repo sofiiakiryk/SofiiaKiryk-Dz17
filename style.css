@@ -1,0 +1,53 @@
+
+.logo { color: rgb(255, 255, 255);}
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Anek Latin', sans-serif;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+  font-family: 'Nunito', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 30px;
+}
+
+.hadder {
+  padding: 30px 30px 30px 30px;
+  display: flex;
+ 
+  justify-content: space-between;
+  background-image: url("pexels-olya-kobruseva-5386735.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.menuiteam {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: 'Nunito', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  margin-right: 15px;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.buttom2 {
+
+  color: white;
+  text-decoration: none;
+  padding: 16px 16px;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  border: 1px rgb(239, 242, 55);
+  
+}
+
